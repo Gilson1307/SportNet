@@ -3,7 +3,7 @@
     "Name": "Tênis Nike Varsity Compete TR 3 Masculino",
     "Description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Maecenas porttitor congue massa. Fusce posuere, magna sed pulvinar ultricies, purus lectus malesuada libero, sit amet commodo magna eros quis urna.",
     "Price": 220,
-    "PictureUrl": "img/products/Tênis Nike Varsity Compete TR 3 Masculino.jpg",
+    "PictureUrl": "img/products/Tênis-Nike-Varsity-Compete-TR-3- Masculino.jpg",
     "ProductTypeId": 4,
     "ProductBrandId": 3
   },
@@ -11,7 +11,7 @@
     "Name": "Tênis Puma Wired",
     "Description": "Nunc viverra imperdiet enim. Fusce est. Vivamus a tellus.",
     "Price": 160,
-    "PictureUrl": "img/products/Tênis Puma Wired.jpg",
+    "PictureUrl": "img/products/Tênis-Puma-Wired.jpg",
     "ProductTypeId": 4,
     "ProductBrandId": 6
   },
@@ -19,7 +19,7 @@
     "Name": "Tênis Mizuno Brave 4 Feminino",
     "Description": "Suspendisse dui purus, scelerisque at, vulputate vitae, pretium mattis, nunc. Mauris eget neque at sem venenatis eleifend. Ut nonummy.",
     "Price": 190,
-    "PictureUrl": "img/products/Tênis Mizuno Brave 4 Feminino.jpg",
+    "PictureUrl": "img/products/Tênis-Mizuno-Brave-4-Feminino.jpg",
     "ProductTypeId": 4,
     "ProductBrandId": 2
   },
@@ -27,7 +27,7 @@
     "Name": "Tênis Olympikus Cyber Masculino",
     "Description": "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Proin pharetra nonummy pede. Mauris et orci.",
     "Price": 175,
-    "PictureUrl": "img/products/Tênis Olympikus Cyber Masculino.jpg",
+    "PictureUrl": "img/products/Tênis-Olympikus-Cyber-Masculino.jpg",
     "ProductTypeId": 4,
     "ProductBrandId": 4
   },
@@ -35,7 +35,7 @@
     "Name": "Tênis Olympikus Attract Se 815 Feminino",
     "Description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Maecenas porttitor congue massa. Fusce posuere, magna sed pulvinar ultricies, purus lectus malesuada libero, sit amet commodo magna eros quis urna.",
     "Price": 85,
-    "PictureUrl": "img/products/Tênis Olympikus Attract Se 815 Feminino.jpg",
+    "PictureUrl": "img/products/Tênis-Olympikus-Attract-Se-815-Feminino.jpg",
     "ProductTypeId": 4,
     "ProductBrandId": 4
   },
@@ -43,7 +43,7 @@
     "Name": "Boné Nike Sportswerar Classic 99 Aba Curva",
     "Description": "Aenean nec lorem. In porttitor. Donec laoreet nonummy augue.",
     "Price": 90,
-    "PictureUrl": "img/products/Boné Nike Sportswerar Classic 99 Aba Curva.jpg",
+    "PictureUrl": "img/products/Boné-Nike-Sportswerar-Classic-99-Aba-Curva.jpg",
     "ProductTypeId": 2,
     "ProductBrandId": 3
   },
@@ -51,7 +51,7 @@
     "Name": "Boné Olympikus Aba Curva Strapback - Mescla",
     "Description": "Fusce posuere, magna sed pulvinar ultricies, purus lectus malesuada libero, sit amet commodo magna eros quis urna.",
     "Price": 55,
-    "PictureUrl": "img/products/Boné Olympikus Aba Curva Strapback - Mescla.jpg",
+    "PictureUrl": "img/products/Boné-Olympikus-Aba-Curva-Strapback-Mescla.jpg",
     "ProductTypeId": 2,
     "ProductBrandId": 4
   },
@@ -59,7 +59,7 @@
     "Name": "Boné Olympikus Aba Curva Strapback - Rosa",
     "Description": "Suspendisse dui purus, scelerisque at, vulputate vitae, pretium mattis, nunc. Mauris eget neque at sem venenatis eleifend. Ut nonummy.",
     "Price": 80,
-    "PictureUrl": "img/products/Boné Olympikus Aba Curva Strapback - Rosa.jpg",
+    "PictureUrl": "img/products/Boné-Olympikus-Aba-Curva-Strapback-Rosa.jpg",
     "ProductTypeId": 2,
     "ProductBrandId": 4
   },
@@ -67,7 +67,7 @@
     "Name": "Luva de Goleiro Adidas Predator Replique",
     "Description": "Fusce posuere, magna sed pulvinar ultricies, purus lectus malesuada libero, sit amet commodo magna eros quis urna.",
     "Price": 120,
-    "PictureUrl": "img/products/Luva de Goleiro Adidas Predator Replique.jpg",
+    "PictureUrl": "img/products/Luva-de-Goleiro-Adidas-Predator-Replique.jpg",
     "ProductTypeId": 3,
     "ProductBrandId": 1
   },
@@ -75,7 +75,7 @@
     "Name": "Luva de Goleiro Adidas Predator Training",
     "Description": "Nunc viverra imperdiet enim. Fusce est. Vivamus a tellus.",
     "Price": 150,
-    "PictureUrl": "img/products/Luva de Goleiro Adidas Predator Training.jpg",
+    "PictureUrl": "img/products/Luva-de-Goleiro-Adidas-Predator-Training.jpg",
     "ProductTypeId": 3,
     "ProductBrandId": 1
   },
@@ -83,7 +83,7 @@
     "Name": "Luva de Goleiro Juvenil Nike Match",
     "Description": "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Proin pharetra nonummy pede. Mauris et orci.",
     "Price": 80,
-    "PictureUrl": "img/products/Luva de Goleiro Juvenil Nike Match.jpg",
+    "PictureUrl": "img/products/Luva-de-Goleiro-Juvenil-Nike-Match.jpg",
     "ProductTypeId": 3,
     "ProductBrandId": 3
   },
@@ -91,7 +91,7 @@
     "Name": "Luva de Goleiro Puma One Grip 4",
     "Description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Maecenas porttitor congue massa.",
     "Price": 120,
-    "PictureUrl": "img/products/Luva de Goleiro Puma One Grip 4.jpg",
+    "PictureUrl": "img/products/Luva-de-Goleiro-Puma-One-Grip-4.jpg",
     "ProductTypeId": 3,
     "ProductBrandId": 6
   },
@@ -99,7 +99,7 @@
     "Name": "Bola de Futebol Society Adidas UEFA Champions League Match Ball Replica Final Istanbul 20",
     "Description": "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Proin pharetra nonummy pede. Mauris et orci.",
     "Price": 130,
-    "PictureUrl": "img/products/Bola de Futebol Society Adidas UEFA Champions League Match Ball Replica Final Istanbul 20.jpg",
+    "PictureUrl": "img/products/Bola-de-Futebol-Society-Adidas-UEFA-Champions-League-Match-Ball-Replica-Final-Istanbul-20.jpg",
     "ProductTypeId": 1,
     "ProductBrandId": 1
   },
@@ -107,7 +107,7 @@
     "Name": "Bola de Futebol Campo Adidas Tsubasa Match Ball Replica League",
     "Description": "Suspendisse dui purus, scelerisque at, vulputate vitae, pretium mattis, nunc. Mauris eget neque at sem venenatis eleifend. Ut nonummy.",
     "Price": 150,
-    "PictureUrl": "img/products/Bola de Futebol Campo Adidas Tsubasa Match Ball Replica League.jpg",
+    "PictureUrl": "img/products/Bola-de-Futebol-Campo-Adidas-Tsubasa-Match-Ball-Replica-League.jpg",
     "ProductTypeId": 1,
     "ProductBrandId": 1
   },
@@ -115,7 +115,7 @@
     "Name": "Bola de Futebol Americano Nike All-Field 3.0 FB 9 Official",
     "Description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Maecenas porttitor congue massa. Fusce posuere, magna sed pulvinar ultricies, purus lectus malesuada libero, sit amet commodo magna eros quis urna.",
     "Price": 165.50,
-    "PictureUrl": "img/products/Bola de Futebol Americano Nike All-Field 3.0 FB 9 Official.jpg",
+    "PictureUrl": "img/products/Bola-de-Futebol-Americano-Nike-All-Field-3.0-FB-9-Official.jpg",
     "ProductTypeId": 1,
     "ProductBrandId": 3
   },
@@ -123,7 +123,7 @@
     "Name": "Bola de Futebol Campo Nike Corinthians Pitch",
     "Description": "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Proin pharetra nonummy pede. Mauris et orci.",
     "Price": 79.99,
-    "PictureUrl": "img/products/Bola de Futebol Campo Nike Corinthians Pitch.jpg",
+    "PictureUrl": "img/products/Bola-de-Futebol-Campo-Nike-Corinthians-Pitch.jpg",
     "ProductTypeId": 1,
     "ProductBrandId": 3
   },
@@ -131,7 +131,7 @@
     "Name": "Bola de Vôlei Penalty MG 3600 Fusion VIII",
     "Description": "Aenean nec lorem. In porttitor. Donec laoreet nonummy augue.",
     "Price": 79.99,
-    "PictureUrl": "img/products/Bola de Vôlei Penalty MG 3600 Fusion VIII.jpg",
+    "PictureUrl": "img/products/Bola-de-Vôlei-Penalty-MG-3600-Fusion-VIII.jpg",
     "ProductTypeId": 1,
     "ProductBrandId": 5
   },
@@ -139,7 +139,7 @@
     "Name": "Bola Vôlei Penalty VP 5000",
     "Description": "Suspendisse dui purus, scelerisque at, vulputate vitae, pretium mattis, nunc. Mauris eget neque at sem venenatis eleifend. Ut nonummy.",
     "Price": 147.90,
-    "PictureUrl": "img/products/Bola Vôlei Penalty VP 5000.jpg",
+    "PictureUrl": "img/products/Bola-Vôlei-Penalty-VP-5000.jpg",
     "ProductTypeId": 1,
     "ProductBrandId": 5
   }
