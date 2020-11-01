@@ -1,0 +1,15 @@
+<header>
+    <span *ngIf="totalCount && totalCount > 0">
+        Mostrando
+        <strong>
+            {{(pageNumber - 1) * pageSize + 1}} -
+            {{pageNumber * pageSize
+                > this.totalCount 
+                ? this.totalCount
+                : pageNumber * pageSize
+            }}
+        </strong> de <strong>{{this.totalCount}}</strong> Produtos</span>
+        <span *ngIf="totalCount === 0">
+            Existem <strong>0</strong> resultados para este filtro
+        </span>
+</header>

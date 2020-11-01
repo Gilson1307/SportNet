@@ -3,7 +3,7 @@
     "Name": "Tênis Nike Varsity Compete TR 3 Masculino",
     "Description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Maecenas porttitor congue massa. Fusce posuere, magna sed pulvinar ultricies, purus lectus malesuada libero, sit amet commodo magna eros quis urna.",
     "Price": 220,
-    "PictureUrl": "img/products/Tênis-Nike-Varsity-Compete-TR-3- Masculino.jpg",
+    "PictureUrl": "img/products/Tênis-Nike-Varsity-Compete-TR-3-Masculino.jpg",
     "ProductTypeId": 4,
     "ProductBrandId": 3
   },
@@ -136,10 +136,10 @@
     "ProductBrandId": 5
   },
   {
-    "Name": "Bola Vôlei Penalty VP 5000",
+    "Name": "Bola de Vôlei Penalty VP 5000",
     "Description": "Suspendisse dui purus, scelerisque at, vulputate vitae, pretium mattis, nunc. Mauris eget neque at sem venenatis eleifend. Ut nonummy.",
     "Price": 147.90,
-    "PictureUrl": "img/products/Bola-Vôlei-Penalty-VP-5000.jpg",
+    "PictureUrl": "img/products/Bola-de-Vôlei-Penalty-VP-5000.jpg",
     "ProductTypeId": 1,
     "ProductBrandId": 5
   }
