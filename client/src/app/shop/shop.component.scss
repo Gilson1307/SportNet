@@ -1,0 +1,17 @@
+.roxo {
+    background-color: #830789;
+}
+
+li {
+    text-decoration: none;
+    color: #000;
+
+    &.active {
+        background-color: #830789;
+        border-color: #830789;
+    }
+}
+
+.amarelo{
+    color: #efd226;
+}

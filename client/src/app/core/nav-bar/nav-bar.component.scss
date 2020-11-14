@@ -4,8 +4,8 @@
     min-width: 25px;
     border-radius: 50%;
     font-size: 1em;
-    background: purple;
-    color: white;
+    background: #efd226;
+    color: 830789;
     text-align: center;
     top: -12px;
     right: 32px;
@@ -13,10 +13,10 @@
 
  a {
      text-decoration: none;
-     color: #343a40;
+     color: #fff;
 
      &.active {
-         color: orange;
+         color: #efd226;
      }
  }
 
@@ -26,4 +26,13 @@
      &:focus{
          outline: none;
      }
+ }
+
+.roxo{
+    background-color: #830789;
+ }
+
+ .branco{
+    color: #fff;
+    
  }
