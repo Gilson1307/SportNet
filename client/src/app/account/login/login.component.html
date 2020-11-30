@@ -1,0 +1,17 @@
+<div class="d-flex justify-content-center mt-5">
+  <div class="col-3">
+
+    <form [formGroup]="loginForm" (ngSubmit)="onSubmit()">
+      <div class="text-center mb-4">
+        <h1 class="h3 mb-3 font-weight-normal">Login</h1>
+      </div>
+
+      <app-text-input formControlName="email" [label]="'E-mail'"></app-text-input>
+      <app-text-input formControlName="password" [label]="'Senha'" [type]="'password'"></app-text-input>
+
+      <button [disabled]="loginForm.invalid" class="btn btn-lg btn-primary btn-block" style="background: #830789; border-color: #830789;" type="submit">Entrar</button>
+    </form>
+
+  </div>
+
+</div>
